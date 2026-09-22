@@ -1,2 +1,2 @@
 # Odin-Recipes
-Recipes project from Odin's Foundation section built with simple html
+A simple recipe website built with semantic HTML as part of The Odin Project (Foundations).
